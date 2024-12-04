@@ -6,10 +6,37 @@ Futurons is a non-profit association focused on speculative design, design ficti
 
 The goal of this monitoring tool is to collect different types of data (audio, video, pictures, texts from various sources) and establish relationships between them.
 This tool must be both individual and collaborative, allowing each user to create their own collections while also contributing to others' collections. Data should be automatically imported into the application (e.g., via RSS feeds) or manually added by uploading or creating new content.
+At a later stage, the tool should allow users to publish or distribute content across different websites or platforms.
 
-There will be 4 categories of users with different status and rights :
-- The administrator
-- The editor
-- The collaborator
-- The visitor
 
+## User categories and roles
+
+There will be 4 categories of users with different statuses and rights :
+- Visitor
+- Collaborator
+- Editor
+- Administrator
+
+The user categories determine the rights assigned to each type of user. This means that each user inherits the permissions of the previous category.
+
+<ins> As a visitor, I can : </ins> <br>
+    - consult collections <br>
+    - suggest new content to add to a collection <br>
+    
+<ins> As a collaborator, I can : </ins> <br>
+    - manage the content automatically import into my account through RSS feeds (I can add it to a collection, keep it in my pending content, delete it) <br>
+    - manage a collection I own or share (create a new collection, add a new keyword, change its status to private or public, invite someone to collaborate) <br>
+    - manage my own contents (create, edit, publish, or delete content. Meaning that new content is initially created at as a draft) <br>
+    - add a content to a collection (either my own or collection I collaborate on) <br>
+    - join someone else's collection (by accepting an invitation) <br>
+    - suggest a new keywords <br>
+       
+<ins> As an editor, I can : </ins> <br>
+    - manage keywords (create, delete, accept suggestion) <br>
+    - manage all contents, even if I don't own it <br>
+    - create relationships between collections or content <br>
+
+<ins> As an administrator I can : </ins> <br>
+    - Manage users (create a new user, manage users rights) <br>
+    - Manage the tool <br>
+    
