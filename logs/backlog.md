@@ -1,6 +1,5 @@
 
-Futurons is a non-profit association focused on speculative design, design fiction, and prospective
-
+Futurons is a non-profit organisation focused on speculative design, design fiction, and futures desugn / transition design 
 
 # Requirements analysis
 
