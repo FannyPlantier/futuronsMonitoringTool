@@ -24,11 +24,10 @@ The user categories determine the rights assigned to each type of user. This mea
     
 <ins> As a collaborator, I can : </ins> <br>
     - Manage the content automatically import into my account through RSS feeds (I can add it to a collection, keep it in my pending content, delete it) <br>
-    - Manage a collection I own or share (create a new collection, add a new keyword, change its status to private or public, invite someone to collaborate) <br>
+    - Manage a collection I own (create a new collection, add a keyword, change its status to private or public, invite someone to collaborate) <br>
+    - Collaborate to a collection (suggest content to add, suggest keyword) 
     - Manage my own contents (create, edit, publish, or delete content. Meaning that new content is initially created at as a draft) <br>
-    - Add a content to a collection (either my own or collection I collaborate on) <br>
     - Join someone else's collection (by accepting an invitation) <br>
-    - Suggest a new keywords <br>
        
 <ins> As an editor, I can : </ins> <br>
     - Manage keywords (create, delete, accept suggestion) <br>
